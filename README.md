@@ -52,7 +52,7 @@ plt.show()
 ```
 
 ### Results
-![Visualisation of Top skills for Data Nerds](Project\Images\skill_demand.png)
+![Visualisation of Top skills for Data Nerds](Project/Images/skill_demand.png)
 
 This visualization shows three horizontal bar charts titled Likelihood of Skills Requested in US Job Postings. Each chart represents the top five skills for three job roles: Data Analyst, Data Engineer, and Data Scientist. The bars indicate the percentage of job postings mentioning each skill, with percentages labeled at the end of each bar. 
 
@@ -94,7 +94,7 @@ for i in range(5):
         plt.text(11.2, df_plot.iloc[-1, i], df_plot.columns[i])
 ```
 ## Results
-![Trending Top skills for Data Analysis in US](Project\Images\Skills_trend.png)
+![Trending Top skills for Data Analysis in US](Project/Images/Skills_trend.png)
 ### Insights
 
 #### The visualization highlights the trends of the top 5 skills for Data Analysts in the U.S. job market over time. Key observations include:
@@ -156,7 +156,7 @@ plt.show()
 #### Results
 ### Highest Paid and Most In-Demand Skills for Data Analysts in the US
 
-![Highest paid and most demanded skills for Data Analysts in US](Project\Images\Highest_paid_and_most_demanded_skills_for_Data_Analysts.png)
+![Highest paid and most demanded skills for Data Analysts in US](Project/Images/Highest_paid_and_most_demanded_skills_for_Data_Analysts.png)
 
 #### Insights
 
