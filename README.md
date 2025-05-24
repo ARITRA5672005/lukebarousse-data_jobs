@@ -27,7 +27,7 @@ Visualizations and detailed insights help readers understand which skills to pri
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
 #### This project analyzes the most in-demand skills across various job titles in the U.S. job market. Using a dataset of job postings and their listed skills, it visualizes the top 5 skills for each role (e.g., Data Analyst, Data Engineer, Data Scientist), along with the percentage of postings that mention each skill.
 
-#### View my notebook with detailed steps here: [2_Skills_demand.ipynb](Project\2_Skills_demand.ipynb)
+#### View my notebook with detailed steps here: [2_Skills_demand.ipynb](Project/2_Skills_demand.ipynb)
 
 ### Visualize Data
 ```python
